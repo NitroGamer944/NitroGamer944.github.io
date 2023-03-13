@@ -20,7 +20,7 @@
 
 .btn.hover::after,
 .btn.hover::before{
-    content: "Im sorry about all this i cant convey emotions very well...";
+    content: "Ennalum egane chadachallo!";
     position: absolute;
     text-align: center;
     width: 100%;
@@ -38,7 +38,7 @@
 }
 
 .btn.btn.hover::before{
-    content: "Just block me and go.";
+    content: "Better luck next time...";
     right: 300px;
 }
 
